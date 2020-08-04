@@ -5,4 +5,5 @@ package com.example.demo.controller;
  */
 public class UserController {
     private String id;
+    private String name;
 }
